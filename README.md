@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I am a Robotics Student, 🔭 working on Control and Planning of Co-operative Multi Robot System for the Payload Transportation System. My long term 🌱 research goal is to study Applied Control System and Robotics. 
+
+⚡ Fun fact: The word “Robot” comes from the Czech word "Robota", which means “Forced Labor.”
+
 https://rishabhdevyadav.github.io/rishabhdevyadav/
