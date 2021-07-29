@@ -10147,3 +10147,71 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+
+
+
+/*added by rishabh used in project section fro video*/
+/*#wrapper { 
+    width: 920px; 
+    height: auto; 
+    margin: 0 auto;
+} 
+#home1 { 
+    width: 47.5%; 
+    height: 300px; 
+    float: left; 
+    margin-right: 5%;
+} 
+
+#home2 { 
+    width: 47.5%; 
+    height: 300px; 
+    float: left; 
+}
+
+.clear{
+    clear: both;
+}
+
+@media (max-width:767px) {
+    #wrapper{
+        width: 100%;
+        height: auto;
+    }
+    #home1 {
+        width: 100%;
+        height: auto;
+        float: none;
+    }
+    #home2 {
+        width: 100%;
+        height: auto;
+        float: none;
+    }
+}*/
+
+
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.section {
+  width: 50%;
+  height: 100%;
+}
+
+video {
+  width: 100%;
+  height: 56.25%;
+  margin-top: 1.875%;
+}
+
+
+/*img.animated-gif{
+  width: 100%;
+  height: 56.25%;
+  margin-top: 1.875%;
+}*/
